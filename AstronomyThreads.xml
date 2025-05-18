@@ -124,5 +124,35 @@
         </Thread>
         </Designation>
     </ThreadSize>
+    <ThreadSize>
+    <Size>60</Size>
+        <Designation>
+        <ThreadDesignation>60mm thread (M60x0.75)</ThreadDesignation>
+        <CTD>M60x0.75</CTD>
+        <Pitch>0.75</Pitch>
+        <Thread>
+            <Gender>external</Gender>
+            <Class>6g</Class>
+            <MajorDia>59.908</MajorDia>
+            <PitchDia>59.4349</PitchDia>
+            <MinorDia>59.0415</MinorDia>
+        </Thread>
+        <Thread>
+            <Gender>internal</Gender>
+            <Class>6H</Class>
+            <MajorDia>60.1291</MajorDia>
+            <PitchDia>59.5879</PitchDia>
+            <MinorDia>59.2831</MinorDia>
+            <TapDrill>59.25</TapDrill>
+        </Thread>
+        <Thread>
+            <Gender>external</Gender>
+            <Class>4g6g</Class>
+            <MajorDia>59.908</MajorDia>
+            <PitchDia>59.4554</PitchDia>
+            <MinorDia>59.062</MinorDia>
+        </Thread>
+        </Designation>
+    </ThreadSize>
 </ThreadType>
 

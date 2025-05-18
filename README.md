@@ -14,6 +14,7 @@ AstronomyThreads is a Fusion 360 library containing a collection of thread profi
 - M42x1 - standard M42 mount (used in analogue cameras etc.)
 - M42x0.75 - T2 thread, very common in photography and astronomy
 - M48x0.75 - 2 inch eyepiece/filter thread
+- M60x0.75 - Thread used in some filters and large-format lenses
 
 ## Installation
 
