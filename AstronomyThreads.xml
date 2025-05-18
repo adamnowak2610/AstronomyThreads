@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+    <Name>Astronomy threads by Adam Nowak</Name>
+    <CustomName>Astronomy threads</CustomName>
+    <Unit>mm</Unit>
+    <Angle>60</Angle>
+    <SortOrder>3</SortOrder>
+
+    <ThreadSize>
+    <Size>28</Size>
+        <Designation>
+        <ThreadDesignation>1.25" filter thread for astronomy (M28.5x0.6)</ThreadDesignation>
+        <CTD>M28.5x0.6</CTD>
+        <Pitch>0.7</Pitch>
+        <Thread>
+            <Gender>external</Gender>
+            <Class>6g</Class>
+            <MajorDia>28.408</MajorDia>
+            <PitchDia>27.9349</PitchDia>
+            <MinorDia>27.5415</MinorDia>
+        </Thread>
+        <Thread>
+            <Gender>internal</Gender>
+            <Class>6H</Class>
+            <MajorDia>28.5</MajorDia>
+            <PitchDia>27.91</PitchDia>
+            <MinorDia>27.08</MinorDia>
+            <TapDrill>27.03</TapDrill>
+        </Thread>
+        <Thread>
+            <Gender>external</Gender>
+            <Class>4g6g</Class>
+            <MajorDia>28.408</MajorDia>
+            <PitchDia>27.9554</PitchDia>
+            <MinorDia>27.562</MinorDia>
+        </Thread>
+        </Designation>
+    </ThreadSize>
+
+    <ThreadSize>
+    <Size>42</Size>
+        <Designation>
+        <ThreadDesignation>M42 (M42x1)</ThreadDesignation>
+        <CTD>M42x1</CTD>
+        <Pitch>1.0</Pitch>
+        <Thread>
+            <Gender>external</Gender>
+            <Class>6g</Class>
+            <MajorDia>41.884</MajorDia>
+            <PitchDia>41.262</PitchDia>
+            <MinorDia>40.7375</MinorDia>
+        </Thread>
+        <Thread>
+            <Gender>internal</Gender>
+            <Class>6H</Class>
+            <MajorDia>42.1572</MajorDia>
+            <PitchDia>41.4355</PitchDia>
+            <MinorDia>41.0355</MinorDia>
+            <TapDrill>41.0</TapDrill>
+        </Thread>
+        <Thread>
+            <Gender>external</Gender>
+            <Class>4g6g</Class>
+            <MajorDia>41.884</MajorDia>
+            <PitchDia>41.2845</PitchDia>
+            <MinorDia>40.76</MinorDia>
+        </Thread>
+        </Designation>
+        <Designation>
+        <ThreadDesignation>T2 (M42x0.75)</ThreadDesignation>
+        <CTD>M42x0.75</CTD>
+        <Pitch>0.75</Pitch>
+        <Thread>
+            <Gender>external</Gender>
+            <Class>6g</Class>
+            <MajorDia>41.908</MajorDia>
+            <PitchDia>41.4349</PitchDia>
+            <MinorDia>41.0415</MinorDia>
+        </Thread>
+        <Thread>
+            <Gender>internal</Gender>
+            <Class>6H</Class>
+            <MajorDia>42.1291</MajorDia>
+            <PitchDia>41.5879</PitchDia>
+            <MinorDia>41.2831</MinorDia>
+            <TapDrill>41.25</TapDrill>
+        </Thread>
+        <Thread>
+            <Gender>external</Gender>
+            <Class>4g6g</Class>
+            <MajorDia>41.908</MajorDia>
+            <PitchDia>41.4554</PitchDia>
+            <MinorDia>41.062</MinorDia>
+        </Thread>
+        </Designation>
+    </ThreadSize>
+    <ThreadSize>
+    <Size>48</Size>
+        <Designation>
+        <ThreadDesignation>48mm Filter thread (M48x0.75)</ThreadDesignation>
+        <CTD>M48x0.75</CTD>
+        <Pitch>0.75</Pitch>
+        <Thread>
+            <Gender>external</Gender>
+            <Class>6g</Class>
+            <MajorDia>47.908</MajorDia>
+            <PitchDia>47.4349</PitchDia>
+            <MinorDia>47.0415</MinorDia>
+        </Thread>
+        <Thread>
+            <Gender>internal</Gender>
+            <Class>6H</Class>
+            <MajorDia>48.1291</MajorDia>
+            <PitchDia>47.5879</PitchDia>
+            <MinorDia>47.2831</MinorDia>
+            <TapDrill>47.25</TapDrill>
+        </Thread>
+        <Thread>
+            <Gender>external</Gender>
+            <Class>4g6g</Class>
+            <MajorDia>47.908</MajorDia>
+            <PitchDia>47.4554</PitchDia>
+            <MinorDia>47.062</MinorDia>
+        </Thread>
+        </Designation>
+    </ThreadSize>
+</ThreadType>
+
