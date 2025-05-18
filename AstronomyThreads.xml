@@ -22,10 +22,10 @@
         <Thread>
             <Gender>internal</Gender>
             <Class>6H</Class>
-            <MajorDia>28.5</MajorDia>
-            <PitchDia>27.91</PitchDia>
-            <MinorDia>27.08</MinorDia>
-            <TapDrill>27.03</TapDrill>
+            <MajorDia>29.22</MajorDia>
+            <PitchDia>28.63</PitchDia>
+            <MinorDia>27.79</MinorDia>
+            <TapDrill>27.74</TapDrill>
         </Thread>
         <Thread>
             <Gender>external</Gender>
